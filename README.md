@@ -79,12 +79,6 @@ Vim Script               1 repo              ██░░░░░░░░░�
 ```
 
 
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/kevinxft/kevinxft/main/assets/bar_graph.png)
-
-
  Last Updated on 31/07/2023 14:36:43 UTC
 <!--END_SECTION:waka-->
 
