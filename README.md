@@ -1,3 +1,4 @@
+<!--
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=kevinxft&show_icons=true&theme=dark"
@@ -9,8 +10,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=kevinxft&show_icons=true" />
 </picture>
-
----
+-->
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C123%20hrs%201%20min-blue)
