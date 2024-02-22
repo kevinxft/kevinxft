@@ -56,16 +56,17 @@ Sunday                   230 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               3 mins              █████████████████████░░░░   83.97 % 
+JSON                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Manga-Master             4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -81,7 +82,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/02/2024 01:43:46 UTC
+ Last Updated on 22/02/2024 01:42:17 UTC
 <!--END_SECTION:waka-->
 
 ---
