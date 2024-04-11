@@ -13,8 +13,6 @@
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C454%20hrs%2056%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -54,16 +52,21 @@ Sunday                   230 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue.js                   1 hr 40 mins        ███████████████░░░░░░░░░░   59.17 % 
+JavaScript               35 mins             █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
+JSON                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+SCSS                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 49 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+music-generator-web      1 hr 25 mins        █████████████░░░░░░░░░░░░   50.19 % 
+music-generator-applet   1 hr 24 mins        ████████████░░░░░░░░░░░░░   49.81 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -79,7 +82,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/04/2024 02:45:11 UTC
+ Last Updated on 11/04/2024 01:48:00 UTC
 <!--END_SECTION:waka-->
 
 ---
