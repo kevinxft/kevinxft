@@ -13,8 +13,6 @@
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C978%20hrs%2032%20mins-blue)
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -28,7 +26,7 @@ Objective-C              1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/01/2025 04:26:25 UTC
+ Last Updated on 06/01/2025 04:27:26 UTC
 <!--END_SECTION:waka-->
 
 ---
