@@ -1,5 +1,3 @@
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C221%20hrs%2038%20mins-blue)
 
