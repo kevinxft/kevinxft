@@ -78,12 +78,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 Objective-C              1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/kevinxft/kevinxft/main/assets/bar_graph.png)
-
-
  Last Updated on 11/03/2025 15:10:29 UTC
 <!--END_SECTION:waka-->
