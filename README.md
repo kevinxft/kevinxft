@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Kevin
 
-A passionate developer focusing on modern web and application development.
+Kevin · 烂人文
 
 ### 🚀 Apps
 
@@ -35,9 +35,7 @@ A passionate developer focusing on modern web and application development.
 
 ### 🛠️ Tech Stack & Tools
 
-- **Languages:** TypeScript, JavaScript, Rust, Objective-C
-- **Frameworks:** Vue.js
-- **Tools:** VS Code, Zed
+- **AI Tools:** Codex, Claude, Grok, Antigravity
 - **Environment:** macOS
 
 ### 📈 GitHub Stats
