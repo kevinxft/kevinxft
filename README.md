@@ -45,7 +45,3 @@ A passionate developer focusing on modern web and application development.
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinxft&theme=transparent&hide_border=true&title_color=3b82f6&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" alt="Kevin's Streak" height="192px"/>
 </p>
-
-### 📫 How to Reach Me
-
-- [GitHub Ecosystem](https://github.com/kevinxft)
