@@ -25,9 +25,15 @@ Kevin · 烂人文
       </a>
     </td>
     <td align="center">
-      <a href="https://chromewebstore.google.com/detail/side-stash/khbkjkjokbmldbaelpknjbfoecdkehbk">
+      <a href="https://kevoralabs.github.io/side-stash/">
         <img src="assets/profile-apps/side-stash.png" width="80" alt="Side Stash icon"><br>
         <strong>Side Stash</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://kevoralabs.github.io/highlight-share-site/">
+        <img src="assets/profile-apps/highlight-share.png" width="80" alt="Highlight Share icon"><br>
+        <strong>Highlight Share</strong>
       </a>
     </td>
   </tr>
