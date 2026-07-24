@@ -19,7 +19,7 @@ A passionate developer focusing on modern web and application development.
       </a>
     </td>
     <td align="center">
-      <a href="https://chromewebstore.google.com/detail/englishcc/iimpbffhdjodajgccmlmdblnbjhkfpnc">
+      <a href="https://englishcc.com">
         <img src="https://englishcc.com/images/englishcc-logo.png" width="80" alt="English CC icon"><br>
         <strong>English CC</strong>
       </a>
