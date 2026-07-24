@@ -66,7 +66,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevinxft&show_icons=true&theme=transparent&title_color=3b82f6&icon_color=3b82f6&text_color=94a3b8&border_color=30363d&hide_border=true" height="175" alt="Kevin's GitHub Stats"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kevinxft&show_icons=true&theme=transparent&title_color=3b82f6&icon_color=3b82f6&text_color=94a3b8&border_color=30363d&hide_border=true" height="175" alt="Kevin's GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinxft&theme=transparent&hide_border=true&title_color=3b82f6&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" height="175" alt="Kevin's Streak Stats"/>
 </p>
 
