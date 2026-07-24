@@ -15,7 +15,7 @@
     <td align="center" width="20%" valign="top">
       <a href="https://kevoralabs.github.io/keylaunch-site/">
         <img src="assets/profile-apps/keylaunch.png" width="76" height="76" alt="KeyLaunch icon"><br><br>
-        <code>KeyLaunch</code>
+        <code>KeyLaunch (键启)</code>
       </a><br><br>
       <sub style="color: #8b949e;">
         Shortcut & App Launcher<br>
