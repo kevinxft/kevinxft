@@ -7,13 +7,13 @@ A passionate developer focusing on modern web and application development.
 <table>
   <tr>
     <td align="center">
-      <a href="https://apps.apple.com/app/id6759540480">
+      <a href="https://kevoralabs.github.io/keylaunch-site/">
         <img src="https://raw.githubusercontent.com/KevoraLabs/keylaunch-site/main/assets/keylaunch-icon.png" width="80" alt="KeyLaunch icon"><br>
         <strong>KeyLaunch</strong>
       </a>
     </td>
     <td align="center">
-      <a href="https://apps.apple.com/app/id6790401487?mt=12">
+      <a href="https://kevoralabs.github.io/pauseloop-site/">
         <img src="https://raw.githubusercontent.com/KevoraLabs/pauseloop-site/main/assets/app-icon.webp" width="80" alt="PauseLoop icon"><br>
         <strong>PauseLoop</strong>
       </a>
