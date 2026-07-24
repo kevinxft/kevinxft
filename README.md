@@ -12,38 +12,43 @@
 
 ---
 
-### 🚀 Apps & Projects
+### 📱 APP 列表
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td align="center" width="140">
+    <td align="center" width="20%" valign="top">
       <a href="https://kevoralabs.github.io/keylaunch-site/">
-        <img src="assets/profile-apps/keylaunch.png" width="72" height="72" alt="KeyLaunch icon"><br><br>
-        <strong>KeyLaunch</strong>
+        <img src="assets/profile-apps/keylaunch.png" width="76" height="76" alt="KeyLaunch icon"><br><br>
+        <strong>KeyLaunch</strong><br>
+        <sub style="color: #8b949e;">快捷启动与调度</sub>
       </a>
     </td>
-    <td align="center" width="140">
+    <td align="center" width="20%" valign="top">
       <a href="https://kevoralabs.github.io/pauseloop-site/">
-        <img src="assets/profile-apps/pauseloop.png" width="72" height="72" alt="PauseLoop icon"><br><br>
-        <strong>PauseLoop</strong>
+        <img src="assets/profile-apps/pauseloop.png" width="76" height="76" alt="PauseLoop icon"><br><br>
+        <strong>PauseLoop</strong><br>
+        <sub style="color: #8b949e;">专注与打卡提醒</sub>
       </a>
     </td>
-    <td align="center" width="140">
+    <td align="center" width="20%" valign="top">
       <a href="https://englishcc.com">
-        <img src="assets/profile-apps/englishcc.png" width="72" height="72" alt="English CC icon"><br><br>
-        <strong>English CC</strong>
+        <img src="assets/profile-apps/englishcc.png" width="76" height="76" alt="English CC icon"><br><br>
+        <strong>English CC</strong><br>
+        <sub style="color: #8b949e;">双语字幕与悬浮查词</sub>
       </a>
     </td>
-    <td align="center" width="140">
+    <td align="center" width="20%" valign="top">
       <a href="https://kevoralabs.github.io/side-stash/">
-        <img src="assets/profile-apps/side-stash.png" width="72" height="72" alt="Side Stash icon"><br><br>
-        <strong>Side Stash</strong>
+        <img src="assets/profile-apps/side-stash.png" width="76" height="76" alt="Side Stash icon"><br><br>
+        <strong>Side Stash</strong><br>
+        <sub style="color: #8b949e;">侧边栏片段暂存</sub>
       </a>
     </td>
-    <td align="center" width="140">
+    <td align="center" width="20%" valign="top">
       <a href="https://kevoralabs.github.io/highlight-share-site/">
-        <img src="assets/profile-apps/highlight-share.png" width="72" height="72" alt="Highlight Share icon"><br><br>
-        <strong>Highlight Share</strong>
+        <img src="assets/profile-apps/highlight-share.png" width="76" height="76" alt="Highlight Share icon"><br><br>
+        <strong>Highlight Share</strong><br>
+        <sub style="color: #8b949e;">划词高亮生成分享</sub>
       </a>
     </td>
   </tr>
