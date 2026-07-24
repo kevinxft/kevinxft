@@ -24,6 +24,12 @@ A passionate developer focusing on modern web and application development.
         <strong>English CC</strong>
       </a>
     </td>
+    <td align="center">
+      <a href="https://chromewebstore.google.com/detail/side-stash/khbkjkjokbmldbaelpknjbfoecdkehbk">
+        <img src="https://raw.githubusercontent.com/KevoraLabs/side-stash/main/public/icon-128.png" width="80" alt="Side Stash icon"><br>
+        <strong>Side Stash</strong>
+      </a>
+    </td>
   </tr>
 </table>
 
