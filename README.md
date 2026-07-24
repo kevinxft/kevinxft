@@ -8,25 +8,25 @@ A passionate developer focusing on modern web and application development.
   <tr>
     <td align="center">
       <a href="https://kevoralabs.github.io/keylaunch-site/">
-        <img src="https://raw.githubusercontent.com/KevoraLabs/keylaunch-site/main/assets/keylaunch-icon.png" width="80" alt="KeyLaunch icon"><br>
+        <img src="assets/profile-apps/keylaunch.png" width="80" alt="KeyLaunch icon"><br>
         <strong>KeyLaunch</strong>
       </a>
     </td>
     <td align="center">
       <a href="https://kevoralabs.github.io/pauseloop-site/">
-        <img src="https://raw.githubusercontent.com/KevoraLabs/pauseloop-site/main/assets/app-icon.webp" width="80" alt="PauseLoop icon"><br>
+        <img src="assets/profile-apps/pauseloop.png" width="80" alt="PauseLoop icon"><br>
         <strong>PauseLoop</strong>
       </a>
     </td>
     <td align="center">
       <a href="https://englishcc.com">
-        <img src="https://englishcc.com/images/englishcc-logo.png" width="80" alt="English CC icon"><br>
+        <img src="assets/profile-apps/englishcc.png" width="80" alt="English CC icon"><br>
         <strong>English CC</strong>
       </a>
     </td>
     <td align="center">
       <a href="https://chromewebstore.google.com/detail/side-stash/khbkjkjokbmldbaelpknjbfoecdkehbk">
-        <img src="https://raw.githubusercontent.com/KevoraLabs/side-stash/main/public/icon-128.png" width="80" alt="Side Stash icon"><br>
+        <img src="assets/profile-apps/side-stash.png" width="80" alt="Side Stash icon"><br>
         <strong>Side Stash</strong>
       </a>
     </td>
