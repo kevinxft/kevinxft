@@ -2,53 +2,44 @@
 
 # Hi there 👋, I'm Kevin
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=450&lines=Kevin+%C2%B7+%E7%83%82%E4%BA%BA%E6%96%87;Indie+App+Developer;Building+AI-Powered+Tools)](https://git.io/typing-svg)
-
-<p align="center">
-  <code>Kevin · 烂人文</code>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=450&lines=Kevin;Indie+App+Developer;Building+AI-Powered+Tools)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### 📱 APP 列表
+### 🚀 Apps
 
 <table align="center" width="100%">
   <tr>
     <td align="center" width="20%" valign="top">
       <a href="https://kevoralabs.github.io/keylaunch-site/">
-        <img src="assets/profile-apps/keylaunch.png" width="76" height="76" alt="KeyLaunch icon"><br><br>
-        <strong>KeyLaunch</strong><br>
-        <sub style="color: #8b949e;">快捷启动与调度</sub>
+        <img src="assets/profile-apps/keylaunch.png" width="80" height="80" alt="KeyLaunch icon"><br><br>
+        <code>KeyLaunch</code>
       </a>
     </td>
     <td align="center" width="20%" valign="top">
       <a href="https://kevoralabs.github.io/pauseloop-site/">
-        <img src="assets/profile-apps/pauseloop.png" width="76" height="76" alt="PauseLoop icon"><br><br>
-        <strong>PauseLoop</strong><br>
-        <sub style="color: #8b949e;">专注与打卡提醒</sub>
+        <img src="assets/profile-apps/pauseloop.png" width="80" height="80" alt="PauseLoop icon"><br><br>
+        <code>PauseLoop</code>
       </a>
     </td>
     <td align="center" width="20%" valign="top">
       <a href="https://englishcc.com">
-        <img src="assets/profile-apps/englishcc.png" width="76" height="76" alt="English CC icon"><br><br>
-        <strong>English CC</strong><br>
-        <sub style="color: #8b949e;">双语字幕与悬浮查词</sub>
+        <img src="assets/profile-apps/englishcc.png" width="80" height="80" alt="English CC icon"><br><br>
+        <code>English CC</code>
       </a>
     </td>
     <td align="center" width="20%" valign="top">
       <a href="https://kevoralabs.github.io/side-stash/">
-        <img src="assets/profile-apps/side-stash.png" width="76" height="76" alt="Side Stash icon"><br><br>
-        <strong>Side Stash</strong><br>
-        <sub style="color: #8b949e;">侧边栏片段暂存</sub>
+        <img src="assets/profile-apps/side-stash.png" width="80" height="80" alt="Side Stash icon"><br><br>
+        <code>Side Stash</code>
       </a>
     </td>
     <td align="center" width="20%" valign="top">
       <a href="https://kevoralabs.github.io/highlight-share-site/">
-        <img src="assets/profile-apps/highlight-share.png" width="76" height="76" alt="Highlight Share icon"><br><br>
-        <strong>Highlight Share</strong><br>
-        <sub style="color: #8b949e;">划词高亮生成分享</sub>
+        <img src="assets/profile-apps/highlight-share.png" width="80" height="80" alt="Highlight Share icon"><br><br>
+        <code>Highlight Share</code>
       </a>
     </td>
   </tr>
@@ -74,4 +65,5 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kevinxft&show_icons=true&theme=transparent&title_color=3b82f6&icon_color=3b82f6&text_color=94a3b8&border_color=30363d&hide_border=true" height="175" alt="Kevin's GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinxft&theme=transparent&hide_border=true&title_color=3b82f6&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" height="175" alt="Kevin's Streak Stats"/>
 </p>
+
 
