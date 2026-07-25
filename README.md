@@ -2,9 +2,9 @@
 
 # Hi, I'm Kevin 👋
 
-独立开发者，专注打造简洁、实用的 macOS 应用与浏览器扩展。
+### 烂人文
 
-你也可以叫我「烂人文」。
+独立开发者，专注打造简洁、实用的 macOS 应用与浏览器扩展。
 
 Independent developer building focused tools for macOS and the web.
 
