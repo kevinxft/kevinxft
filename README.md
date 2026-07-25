@@ -4,6 +4,8 @@
 
 独立开发者，专注打造简洁、实用的 macOS 应用与浏览器扩展。
 
+你也可以叫我「烂人文」。
+
 Independent developer building focused tools for macOS and the web.
 
 [KevoraLabs on GitHub](https://github.com/KevoraLabs)
@@ -14,7 +16,7 @@ Independent developer building focused tools for macOS and the web.
 
 </div>
 
-## Apps & Extensions
+## Featured work
 
 | | Product | What it does | Platform |
 | --- | --- | --- | --- |
