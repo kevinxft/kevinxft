@@ -6,11 +6,15 @@
 
 Independent developer building focused tools for macOS and the web.
 
-[KevoraLabs](https://github.com/KevoraLabs) · [查看全部产品](https://kevoralabs.github.io/homebrew-apps/)
+[KevoraLabs on GitHub](https://github.com/KevoraLabs)
+
+<h3>
+  <a href="https://kevoralabs.github.io/homebrew-apps/">🌐 查看全部产品 →</a>
+</h3>
 
 </div>
 
-## Featured work
+## Apps & Extensions
 
 | | Product | What it does | Platform |
 | --- | --- | --- | --- |
