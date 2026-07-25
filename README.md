@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi, I'm Kevin 👋
-
-### 烂人文
+# Hi, I'm Kevin 👋 · 烂人文
 
 独立开发者，专注打造简洁、实用的 macOS 应用与浏览器扩展。
 
