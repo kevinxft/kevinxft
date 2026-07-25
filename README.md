@@ -1,89 +1,29 @@
 <div align="center">
 
-# Hi there 👋, I'm Kevin
+# Hi, I'm Kevin · 烂人文 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=450&lines=Kevin;Indie+App+Developer;Building+AI-Powered+Tools)](https://git.io/typing-svg)
+独立开发者，专注打造简洁、实用的 macOS 应用与浏览器扩展。
+
+Independent developer building focused tools for macOS and the web.
+
+[KevoraLabs on GitHub](https://github.com/KevoraLabs)
+
+<h3>
+  <a href="https://kevoralabs.github.io/homebrew-apps/">🌐 查看全部产品 →</a>
+</h3>
 
 </div>
 
----
+## Featured work
 
-### 🚀 Apps
+| | Product | What it does | Platform |
+| --- | --- | --- | --- |
+| <img src="https://raw.githubusercontent.com/KevoraLabs/.github/main/assets/profile-apps/keylaunch.png" width="48" alt="KeyLaunch icon"> | [KeyLaunch](https://kevoralabs.github.io/keylaunch-site/) | 全局快捷键启动与切换应用 | macOS |
+| <img src="https://raw.githubusercontent.com/KevoraLabs/.github/main/assets/profile-apps/pauseloop.png" width="48" alt="PauseLoop icon"> | [PauseLoop](https://kevoralabs.github.io/pauseloop-site/) | 20-20-20 护眼与定时休息提醒 | macOS |
+| <img src="https://raw.githubusercontent.com/KevoraLabs/.github/main/assets/profile-apps/englishcc.png" width="48" alt="EnglishCC icon"> | [EnglishCC](https://englishcc.com) | YouTube 双语字幕与悬浮查词 | Browser |
+| <img src="https://raw.githubusercontent.com/KevoraLabs/.github/main/assets/profile-apps/side-stash.png" width="48" alt="Side Stash icon"> | [Side Stash](https://kevoralabs.github.io/side-stash/) | 本地优先的侧边栏内容收藏工具 | Browser |
+| <img src="https://raw.githubusercontent.com/KevoraLabs/.github/main/assets/profile-apps/highlight-share.png" width="48" alt="Highlight Share icon"> | [Highlight Share](https://kevoralabs.github.io/highlight-share/) | 网页高亮与金句卡片导出 | Browser |
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="20%" valign="top">
-      <a href="https://kevoralabs.github.io/keylaunch-site/">
-        <img src="assets/profile-apps/keylaunch.png" width="76" height="76" alt="KeyLaunch icon"><br><br>
-        <code>KeyLaunch (键启)</code>
-      </a><br><br>
-      <sub style="color: #8b949e;">
-        Shortcut & App Launcher<br>
-        快捷启动与调度
-      </sub>
-    </td>
-    <td align="center" width="20%" valign="top">
-      <a href="https://kevoralabs.github.io/pauseloop-site/">
-        <img src="assets/profile-apps/pauseloop.png" width="76" height="76" alt="PauseLoop icon"><br><br>
-        <code>PauseLoop</code>
-      </a><br><br>
-      <sub style="color: #8b949e;">
-        Focus & Break Timer<br>
-        专注与打卡提醒
-      </sub>
-    </td>
-    <td align="center" width="20%" valign="top">
-      <a href="https://englishcc.com">
-        <img src="assets/profile-apps/englishcc.png" width="76" height="76" alt="English CC icon"><br><br>
-        <code>English CC</code>
-      </a><br><br>
-      <sub style="color: #8b949e;">
-        Dual Subtitles & Dictionary<br>
-        双语字幕与悬浮查词
-      </sub>
-    </td>
-    <td align="center" width="20%" valign="top">
-      <a href="https://kevoralabs.github.io/side-stash/">
-        <img src="assets/profile-apps/side-stash.png" width="76" height="76" alt="Side Stash icon"><br><br>
-        <code>Side Stash</code>
-      </a><br><br>
-      <sub style="color: #8b949e;">
-        Side Panel Snippet Manager<br>
-        侧边栏片段暂存
-      </sub>
-    </td>
-    <td align="center" width="20%" valign="top">
-      <a href="https://kevoralabs.github.io/highlight-share-site/">
-        <img src="assets/profile-apps/highlight-share.png" width="76" height="76" alt="Highlight Share icon"><br><br>
-        <code>Highlight Share</code>
-      </a><br><br>
-      <sub style="color: #8b949e;">
-        Highlight & Card Exporter<br>
-        划词高亮生成分享
-      </sub>
-    </td>
-  </tr>
-</table>
+## Building with
 
----
-
-### 🛠️ Tech Stack & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex"/>
-  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
-  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok"/>
-  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity"/>
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"/>
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kevinxft&show_icons=true&theme=transparent&title_color=3b82f6&icon_color=3b82f6&text_color=94a3b8&border_color=30363d&hide_border=true" height="175" alt="Kevin's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinxft&theme=transparent&hide_border=true&title_color=3b82f6&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" height="175" alt="Kevin's Streak Stats"/>
-</p>
-
-
+Swift · SwiftUI · TypeScript · React · Electron
