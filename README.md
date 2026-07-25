@@ -12,13 +12,13 @@ Independent developer building focused tools for macOS and the web.
 
 ## Featured work
 
-| Product | What it does | Platform |
-| --- | --- | --- |
-| [KeyLaunch](https://kevoralabs.github.io/keylaunch-site/) | 全局快捷键启动与切换应用 | macOS |
-| [PauseLoop](https://kevoralabs.github.io/pauseloop-site/) | 20-20-20 护眼与定时休息提醒 | macOS |
-| [EnglishCC](https://englishcc.com) | YouTube 双语字幕与悬浮查词 | Browser |
-| [Side Stash](https://kevoralabs.github.io/side-stash/) | 本地优先的侧边栏内容收藏工具 | Browser |
-| [Highlight Share](https://kevoralabs.github.io/highlight-share/) | 网页高亮与金句卡片导出 | Browser |
+| | Product | What it does | Platform |
+| --- | --- | --- | --- |
+| <img src="https://raw.githubusercontent.com/KevoraLabs/.github/main/assets/profile-apps/keylaunch.png" width="48" alt="KeyLaunch icon"> | [KeyLaunch](https://kevoralabs.github.io/keylaunch-site/) | 全局快捷键启动与切换应用 | macOS |
+| <img src="https://raw.githubusercontent.com/KevoraLabs/.github/main/assets/profile-apps/pauseloop.png" width="48" alt="PauseLoop icon"> | [PauseLoop](https://kevoralabs.github.io/pauseloop-site/) | 20-20-20 护眼与定时休息提醒 | macOS |
+| <img src="https://raw.githubusercontent.com/KevoraLabs/.github/main/assets/profile-apps/englishcc.png" width="48" alt="EnglishCC icon"> | [EnglishCC](https://englishcc.com) | YouTube 双语字幕与悬浮查词 | Browser |
+| <img src="https://raw.githubusercontent.com/KevoraLabs/.github/main/assets/profile-apps/side-stash.png" width="48" alt="Side Stash icon"> | [Side Stash](https://kevoralabs.github.io/side-stash/) | 本地优先的侧边栏内容收藏工具 | Browser |
+| <img src="https://raw.githubusercontent.com/KevoraLabs/.github/main/assets/profile-apps/highlight-share.png" width="48" alt="Highlight Share icon"> | [Highlight Share](https://kevoralabs.github.io/highlight-share/) | 网页高亮与金句卡片导出 | Browser |
 
 ## Building with
 
