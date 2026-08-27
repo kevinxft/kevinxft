@@ -50,7 +50,7 @@
     </td>
     <td align="center" width="20%" valign="top">
       <a href="https://englishcc.com/">
-        <img src="https://raw.githubusercontent.com/kevinxft/kevinxft/main/assets/profile-apps/englishcc.png?v=2" width="68" height="68" alt="EnglishCC"><br><br>
+        <img src="assets/profile-apps/englishcc.png" width="68" height="68" alt="EnglishCC"><br><br>
         <b>EnglishCC</b>
       </a><br><br>
       <sub>YouTube 双语字幕与查词</sub><br>
