@@ -58,7 +58,7 @@
     </td>
     <td align="center" width="20%" valign="top">
       <a href="https://sunodownload.lanrenwen.com/">
-        <img src="assets/profile-apps/suno-download-icon.webp" width="68" height="68" alt="suno download"><br><br>
+        <img src="assets/profile-apps/suno-download-icon.png" width="68" height="68" alt="suno download"><br><br>
         <b>suno download</b>
       </a><br><br>
       <sub>Suno 音频提取与批量下载</sub><br>
