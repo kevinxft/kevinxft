@@ -57,18 +57,18 @@
       <sub><a href="https://englishcc.com/">官网 ↗</a> · <a href="https://chromewebstore.google.com/detail/englishcc/iimpbffhdjodajgccmlmdblnbjhkfpnc">Chrome 商店</a></sub>
     </td>
     <td align="center" width="20%" valign="top">
-      <a href="https://highlightshare.lanrenwen.com/">
-        <img src="assets/profile-apps/highlight-share.png" width="68" height="68" alt="Highlight Share"><br><br>
-        <b>HighlightShare</b>
+      <a href="https://sunodownload.lanrenwen.com/">
+        <img src="assets/profile-apps/suno-download-icon.webp" width="68" height="68" alt="suno download"><br><br>
+        <b>suno download</b>
       </a><br><br>
-      <sub>网页划词高亮与金句卡片</sub><br>
-      <sub><a href="https://highlightshare.lanrenwen.com/">官网 ↗</a> · <a href="https://chromewebstore.google.com/detail/highlight-share/nmjdekhjdeebjbckapcpjagkjcabcgla">Chrome 商店</a></sub>
+      <sub>Suno 音频提取与批量下载</sub><br>
+      <sub><a href="https://sunodownload.lanrenwen.com/">官网 ↗</a> · <a href="https://chromewebstore.google.com/detail/suno-download-lossless-au/pgfjfbchdaifeokikhgkgihmildohmkl">Chrome 商店</a></sub>
     </td>
   </tr>
 </table>
 
 <div align="center">
-  👉 <b><a href="https://lanrenwen.com/">前往 lanrenwen.com 查看全部 17 款作品 ↗</a></b>
+  👉 <b><a href="https://lanrenwen.com/">前往 lanrenwen.com 查看全部 16 款作品 ↗</a></b>
 </div>
 
 ---
@@ -84,7 +84,6 @@
 #### 🌐 浏览器扩展 (Chrome / Edge)
 - **[EnglishCC](https://englishcc.com/)** — 沉浸式外语视频双语字幕提取与划词查词扩展 · [官网](https://englishcc.com/) · [Chrome 商店](https://chromewebstore.google.com/detail/englishcc/iimpbffhdjodajgccmlmdblnbjhkfpnc)
 - **[SideStash](https://sidestash.lanrenwen.com/)** — 基于侧边栏的网页片段与标签页集中管理工具 · [官网](https://sidestash.lanrenwen.com/) · [Chrome 商店](https://chromewebstore.google.com/detail/side-stash/khbkjkjokbmldbaelpknjbfoecdkehbk)
-- **[HighlightShare (划词分享)](https://highlightshare.lanrenwen.com/)** — 网页选中文本一键导出高颜值社交分享卡片 · [官网](https://highlightshare.lanrenwen.com/) · [Chrome 商店](https://chromewebstore.google.com/detail/highlight-share/nmjdekhjdeebjbckapcpjagkjcabcgla)
 - **[suno download](https://sunodownload.lanrenwen.com/)** — Suno 歌曲与播放列表原始音频提取与批量下载 · [官网](https://sunodownload.lanrenwen.com/) · [Chrome 商店](https://chromewebstore.google.com/detail/suno-download-lossless-au/pgfjfbchdaifeokikhgkgihmildohmkl)
 
 #### ⚡ 跨平台桌面端 / 移动端 / 小程序
